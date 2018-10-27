@@ -46,11 +46,12 @@ h4{
 
 h5{
 	margin-top: 20px;
+    margin-bottom: 20px;
 	font-family: 'Libre Franklin', sans-serif;
 	font-size: 20px;
 	color: white;
-	margin:5px;
-	text-align: justify;
+	margin:2px;
+	text-align: center;
 }
 h6{
 	margin-top: 20px;
@@ -81,12 +82,11 @@ ul{
 }    
  
  li{ 
+    /*Configuracion barra de navegacion, lista de menus*/
     float: left;
     text-align: center;
     list-style-type: none;
     background-color: #F0B429;
-    /*border-radius: 5px;
-    box-shadow: 0 0 5px black inset;*/
     width: inherit;
     height: 30px;
     font-size: 25px;
@@ -121,14 +121,13 @@ li:hover ul{
     }
 
 aside{
-    /*background-color: blue;*/
     width: 28%;
     float: right;
     margin-left: 30px;
     height: auto;
     padding-left: 30px;
-    
-    /*margin-left: 20px;*/
+   
+ }
 
 p{
     color: black;
@@ -139,9 +138,14 @@ p{
 
 }
 
+a{
+   font-family: 'Libre Franklin', sans-serif;
+    text-align: center; 
+}
+
 figure{
-    margin: 35px;
-    padding: 35px;
+    margin: 10px;
+    padding: 10px;
 
 }
 img{

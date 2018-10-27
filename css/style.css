@@ -50,7 +50,7 @@ h5{
 	font-size: 20px;
 	color: white;
 	margin:5px;
-	text-align: justify;
+	text-align: center;
 }
 h6{
 	margin-top: 20px;
@@ -139,10 +139,15 @@ p{
     margin-left: 10px;
 
 }
+a{
+   
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: center; 
+}
 
 figure{
-    margin: 35px;
-    padding: 35px;
+    margin: 10px;
+    padding: 10px;
 
 }
 img{
