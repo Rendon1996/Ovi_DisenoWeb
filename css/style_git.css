@@ -168,6 +168,8 @@ footer img{
     width: auto;
 }
 
+.foto{width: 400px; height: auto; margin-left: 250px;}
+.texto{width: inherit; color:black; font-size: 25px; font-family: 'Libre Franklin', sans-serif; text-align: left; margin-left: 250px; }
 .menu:link{color: white; text-decoration:none}
 .menu:visited{color: white; text-decoration:none}    
 .menu:hover{ color: #006680;text-decoration:none}
